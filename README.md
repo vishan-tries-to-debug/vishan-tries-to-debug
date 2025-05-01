@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Vishan 👋
 
-<!--
-**vishan-tries-to-debug/vishan-tries-to-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Projects I'm Working On
 
-Here are some ideas to get you started:
+- 🤖 AI apps for:
+  - ✂️ Short form content creation
+  - 💸 Arbitrage betting
+  - 📈 Crypto scalping
+  - 👁️‍🗨️ Vision-based AI (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+
+- 🦀 Rust
+- 💡 C++
+- 🔷 TypeScript
+- 🎧 Vibecoding
+
+---
+
+## 🛠️ Languages & Tools
+
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=gnu-bash)
+
+---
+
+## 📬 Reach Me
+
+📧 [findingvishan@gmail.com](mailto:findingvishan@gmail.com)
+
+---
