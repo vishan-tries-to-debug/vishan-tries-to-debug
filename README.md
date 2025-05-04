@@ -6,7 +6,7 @@
 - 💸 AI arbitrage betting
 - 📈 AI crypto scalping
 - 👁️‍🗨️ Vision-based AI (coming soon)
-- 🧠 Programming IDE inside Discord
+- 🧠 Programming IDE inside Discord (coming when I actually work on it)
 
 ---
 
@@ -22,10 +22,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2b%2b)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2b%2b)
 ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
